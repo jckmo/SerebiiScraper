@@ -1,0 +1,2 @@
+Serebii Daily Scraper
+
